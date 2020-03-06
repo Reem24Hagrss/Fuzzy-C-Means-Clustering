@@ -1,2 +1,2 @@
 # FuzzyCMeans
-Implementation of Fuzzy C Means Algorithm using Python
+Implementation of Fuzzy-C-Means Clustering Algorithm using Python
